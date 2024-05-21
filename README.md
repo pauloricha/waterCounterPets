@@ -6,6 +6,10 @@ O Water Counter Pets (contador de água de Pets) é um dispositivo que monitora 
 
 O dispositivo usa um sensor de presença para detectar a presença do pet ao tomar sua água. O controlador do dispositivo (Arduino) realiza uma contagem diária a cada detecção que é visualizada em um display de monitoramento.
 
+## Vídeo do projeto funcionando
+
+https://www.youtube.com/shorts/Ff3yf43F2tY
+
 ## Desenho da Solução
 
 ![image](https://github.com/pauloricha/waterCounterPets/assets/14791519/66a21f3f-167d-45f2-8176-e850eb9d7b10)
